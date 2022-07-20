@@ -4,7 +4,7 @@ import math
 import time
 
 print('''
-⸸LOGIN TO PROJECT SATAN⸸
+⸸DDOS BY BONUMMASTER
 ⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸⛧⸸
 ''')
 user = input('user:')
@@ -94,10 +94,10 @@ while True:
    print('''
                   
    --------------------
-   |Made by sobakaroot|
+   |UNDERGROUNDSECURITYPH|
    +------------------+
 
-   project satan is a fake ddos tool for fun
+   IF THE SPIDER WEB UNITE THEY CAN TIE'UP A LION
    'cls' to clear
    ''')
    lll = input('enter')
