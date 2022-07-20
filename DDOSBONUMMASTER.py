@@ -43,7 +43,7 @@ while True:
      ip = input('IP:')
      Port= input('Port:')
      Time = input('Time:')
-     l = open('tt.txt','w+')
+     l = open('bonum.html','w+')
      l.write('\n1234'*int(Time))
      l.close()
      for i in range(int(Time)):
@@ -62,7 +62,7 @@ while True:
    pi = input('ip:')
    po = input('port:')
    tim3 = input('Time:')
-   f = open('tcp.txt','w+')
+   f = open('bonum.html','w+')
    f.write('123'*int(tim3))
    for i in range(int(tim3)):
      ps = ('flooding'+pi)
@@ -83,7 +83,7 @@ while True:
    lp = input('ip:')
    prt = input('Port:')
    t1 = input('Time:')
-   k = open('tm.txt','w+')
+   k = open('bonum.html','w+')
    k.write('lo'*int(t1))
    k.close()
    for i in range(int(t1)):
